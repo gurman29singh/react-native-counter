@@ -1,10 +1,10 @@
 import { StyleSheet, View } from 'react-native';
-import { RaectNativeCounterUsingFabricView } from 'react-native-raect-native-counter-using-fabric';
+import Counter from 'react-native-raect-native-counter-using-fabric';
 
 export default function App() {
   return (
     <View style={styles.container}>
-      <RaectNativeCounterUsingFabricView color="#32a852" style={styles.box} />
+      <Counter />
     </View>
   );
 }
