@@ -1,6 +1,6 @@
 {
   "name": "react-native-raect-native-counter-using-fabric",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "fabric counter",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
